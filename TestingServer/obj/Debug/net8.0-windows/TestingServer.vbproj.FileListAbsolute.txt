@@ -17,3 +17,4 @@ C:\Users\sujus\source\repos\TestingServer\TestingServer\obj\Debug\net8.0-windows
 C:\Users\sujus\source\repos\TestingServer\TestingServer\obj\Debug\net8.0-windows\ref\TestingServer.dll
 C:\Users\sujus\source\repos\TestingServer\TestingServer\obj\Debug\net8.0-windows\TestingServer.Form4.resources
 C:\Users\sujus\source\repos\TestingServer\TestingServer\obj\Debug\net8.0-windows\TestingServer.Form5.resources
+C:\Users\sujus\source\repos\TestingServer\TestingServer\obj\Debug\net8.0-windows\TestingServer.sourcelink.json
